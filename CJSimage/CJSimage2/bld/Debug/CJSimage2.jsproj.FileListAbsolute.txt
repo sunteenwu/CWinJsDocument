@@ -1,0 +1,17 @@
+E:\SpecialTopic\Javacript\CJSimage\CJSimage2\bin\Debug\ReverseMap\resources.pri
+E:\SpecialTopic\Javacript\CJSimage\CJSimage2\bin\Debug\AppxManifest.xml
+E:\SpecialTopic\Javacript\CJSimage\CJSimage2\bin\Debug\CJSimage2.build.appxrecipe
+E:\SpecialTopic\Javacript\CJSimage\CJSimage2\bld\Debug\ResourceHandlingTask.state
+E:\SpecialTopic\Javacript\CJSimage\CJSimage2\bld\Debug\priconfig.xml
+E:\SpecialTopic\Javacript\CJSimage\CJSimage2\bld\Debug\priconfig.xml.intermediate
+E:\SpecialTopic\Javacript\CJSimage\CJSimage2\bld\Debug\layout.resfiles
+E:\SpecialTopic\Javacript\CJSimage\CJSimage2\bld\Debug\layout.resfiles.intermediate
+E:\SpecialTopic\Javacript\CJSimage\CJSimage2\bld\Debug\resources.resfiles
+E:\SpecialTopic\Javacript\CJSimage\CJSimage2\bld\Debug\resources.resfiles.intermediate
+E:\SpecialTopic\Javacript\CJSimage\CJSimage2\bld\Debug\pri.resfiles
+E:\SpecialTopic\Javacript\CJSimage\CJSimage2\bld\Debug\pri.resfiles.intermediate
+E:\SpecialTopic\Javacript\CJSimage\CJSimage2\bld\Debug\qualifiers.txt
+E:\SpecialTopic\Javacript\CJSimage\CJSimage2\bld\Debug\qualifiers.txt.intermediate
+E:\SpecialTopic\Javacript\CJSimage\CJSimage2\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\SpecialTopic\Javacript\CJSimage\CJSimage2\bld\Debug\ProjectArchitectures.txt
+E:\SpecialTopic\Javacript\CJSimage\CJSimage2\bld\Debug\CJSimage2.jsproj.CoreCompileInputs.cache

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SUNTEEN-PC</Machine>
+    <WindowsUser>v-xunwu</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>423d8463-c4ae-489a-9af1-ebf1fc16f43b</PackageIdentityName>
+    <PackageIdentityPublisher>CN=v-xunwu</PackageIdentityPublisher>
+    <IntermediateOutputPath>E:\SpecialTopic\Javacript\CJSimage\CJSimage\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>E:\SpecialTopic\Javacript\CJSimage\CJSimage\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>12149DF0188155D5786080192CE14FB79BA01247898864FA251BE6CF7E99EAC1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>423d8463-c4ae-489a-9af1-ebf1fc16f43b_1.0.0.0_neutral__1096e6a2etsa4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>423d8463-c4ae-489a-9af1-ebf1fc16f43b_1096e6a2etsa4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>423d8463-c4ae-489a-9af1-ebf1fc16f43b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=v-xunwu</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\SpecialTopic\Javacript\CJSimage\CJSimage\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-06-30T09:00:41.263</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\SpecialTopic\Javacript\CJSimage\CJSimage\images\bussiness\caffe2.jpg">
+      <PackagePath>images\bussiness\caffe2.jpg</PackagePath>
+      <Modified>2016-08-15T02:23:11.425</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\SpecialTopic\Javacript\CJSimage\CJSimage\images\bussiness\first.svg">
+      <PackagePath>images\bussiness\first.svg</PackagePath>
+      <Modified>2017-06-30T08:42:38.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\SpecialTopic\Javacript\CJSimage\CJSimage\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2017-06-30T07:53:37.224</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\SpecialTopic\Javacript\CJSimage\CJSimage\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2017-04-13T05:58:51.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\SpecialTopic\Javacript\CJSimage\CJSimage\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-13T05:58:51.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\SpecialTopic\Javacript\CJSimage\CJSimage\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-13T05:58:51.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\SpecialTopic\Javacript\CJSimage\CJSimage\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-13T05:58:51.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\SpecialTopic\Javacript\CJSimage\CJSimage\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-13T05:58:51.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\SpecialTopic\Javacript\CJSimage\CJSimage\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-13T05:58:51.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\SpecialTopic\Javacript\CJSimage\CJSimage\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-13T05:58:51.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\SpecialTopic\Javacript\CJSimage\CJSimage\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2017-06-30T07:53:37.213</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\SpecialTopic\Javacript\CJSimage\CJSimage\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2017-06-30T07:53:37.193</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\SpecialTopic\Javacript\CJSimage\CJSimage\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-06-30T09:00:41.112</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
